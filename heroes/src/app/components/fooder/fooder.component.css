@@ -1,0 +1,22 @@
+.footer {
+  text-align: center;  /* Center all content within the footer */
+  background-color: #06003b;
+  color: #fff;
+  padding: 1px ;
+ }
+
+ .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1px;
+ }
+
+.footer .col p {
+  margin: 0 auto;  /* Center paragraphs within each column */
+}
+
+/* Optional: Center headers within columns (if desired) */
+.footer .col h5 {
+  text-align: center;
+}
+
